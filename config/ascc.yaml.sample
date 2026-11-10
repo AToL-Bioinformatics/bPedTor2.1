@@ -1,0 +1,8 @@
+reads_path:
+  - ${PWD}/results/qc/reads/PACBIO_SMRT/bpa-tsi-pacbio-hifi-687456-m84073_260724_073504_s2.fastq.gz
+reads_type: "hifi"
+reads_layout: "SINGLE"
+sample_id: "bPedTor2"
+scientific_name: "Pedionomus torquatus"
+busco_lineages: "aves_odb10"
+taxid: 227192

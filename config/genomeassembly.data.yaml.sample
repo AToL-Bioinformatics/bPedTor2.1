@@ -1,0 +1,5 @@
+
+- id: bPedTor2
+  platform: pacbio_hifi
+  reads:
+    - ${PWD}/results/qc/reads/PACBIO_SMRT/bpa-tsi-pacbio-hifi-687456-m84073_260724_073504_s2.fastq.gz

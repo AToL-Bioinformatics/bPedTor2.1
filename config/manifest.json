@@ -1,0 +1,29 @@
+{
+  "assembly_version": 1,
+  "dataset_id": "bPedTor2",
+  "scientific_name": "Pedionomus torquatus",
+  "taxon_id": 227192,
+  "busco_odb10_dataset_name": "aves",
+  "busco_odb12_dataset_name": "aves",
+  "ncbi_class": "Aves",
+  "hic_motif": "GATC,GANTC,CTNAG,TTAA",
+  "mitochondrial_genetic_code_id": 2,
+  "mitohifi_reference_species": "Arenaria interpres",
+  "oatk_hmm_name": "aves",
+  "augustus_dataset_name": "tiberius_model_cfg:vertebrates.yaml",
+  "genetic_code_id": 1,
+  "assembly_id": "8631bf00-2a37-4f78-b05b-9a9b43e39f0a",
+  "read_files": [
+    {
+      "name": "bpa-tsi-pacbio-hifi-687456-m84073_260724_073504_s2",
+      "data_type": "PACBIO_SMRT",
+      "base_url": "https://downloads-qcif.bioplatforms.com/bpa/tsi_staging/pacbio-hifi/BPAOPS-2168/20260728_TSI_AGRF_CAGRF26030419_m84073_260724_073504_s2/",
+      "single_end": [
+        {
+          "url": "https://data.bioplatforms.com/dataset/bpa-tsi-pacbio-hifi-687456-m84073_260724_073504_s2/resource/8d9874ba1e37bfdddd2003b4fb0d514e/download/687456_TSI_AGRF_m84073_260724_073504_s2.ccs.bam",
+          "md5sum": "8d9874ba1e37bfdddd2003b4fb0d514e"
+        }
+      ]
+    }
+  ]
+}
